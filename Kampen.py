@@ -1,4 +1,3 @@
-#2c7c0ace395d80182db07ae2c30f035
 #!/usr/bin/python
 '''
 Title: Kampen's Method
